@@ -1,0 +1,25 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background: linear-gradient( rgb(197, 152, 152), rgb(246, 127, 127));
+  background-attachment: fixed;
+}
+
+.menu {
+  padding: 10px;
+  list-style-type: none;
+  background-color: rgb(232, 141, 141);
+  height: 60px;
+  width: 400px;
+}
+
+.title,
+.p {
+  text-align: center;
+}
+
+.p {
+  font-size: 22px;
+}
